@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1564842337 source:c:\users\cleuza\desktop\vivabemsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+
